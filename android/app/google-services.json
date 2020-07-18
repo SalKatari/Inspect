@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1070021466868",
+    "firebase_url": "https://inspect-5dcab.firebaseio.com",
+    "project_id": "inspect-5dcab",
+    "storage_bucket": "inspect-5dcab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070021466868:android:c504c6df5c0568bee49ca1",
+        "android_client_info": {
+          "package_name": "com.inspect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070021466868-eubm0nunl6odiuhe39mh30kooj2chb80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TkzBntFtrSGE8otD9gjum4RP70ZQM4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070021466868-eubm0nunl6odiuhe39mh30kooj2chb80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
