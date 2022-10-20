@@ -46,7 +46,7 @@
     "react-native-permissions": "^2.1.5",
     "react-native-popup-menu": "^0.15.7",
     "react-native-qrcode-scanner": "^1.4.1",
-    "react-native-reanimated": "^1.7.1",
+    "react-native-reanimated": "^2.10.0",
     "react-native-redux-listener": "^0.3.0",
     "react-native-router-flux": "^4.2.0",
     "react-native-safe-area-context": "^0.7.3",
